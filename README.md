@@ -1,4 +1,4 @@
-# 🃏 Super Trunfo em C - Tema 2 🚀
+# 🃏 Super Trunfo em C - Tema 3 🚀
 
 Bem-vinda ao desafio de lógica da **TechNova**! Este projeto simula o clássico jogo Super Trunfo, onde comparamos atributos de cidades para determinar a vencedora.
 
